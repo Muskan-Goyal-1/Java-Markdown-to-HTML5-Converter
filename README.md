@@ -1,6 +1,6 @@
 
 
-![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 ![Java Version](https://img.shields.io/badge/Java-11%2B-orange.svg)
 
 A simple, lightweight, zero-dependency command-line tool written in Java to convert basic Markdown files to clean, styled HTML5. This project is a great introduction to text parsing, regular expressions, and file I/O.
@@ -76,9 +76,6 @@ java -version
 
 -----
 
-## License
-
-This project is licensed under the MIT License.
 
 ```
 ```
